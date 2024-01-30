@@ -93,17 +93,18 @@ const Application = (props) => {
 					<div className="container ">
 						<div className="input-field file-field">
 							<div className="btn">
-								<span>Browse</span>
 								<input
 									type="file"
 									id="carImage"
 									name="carImage"
 									onChange={handleFileUpload}
 								/>
+								<span>Browse</span>
+
 							</div>
 							<div className="file-path-wrapper">
 								<input
-									className="file-path white-text"
+									className="file-path black-text"
 									type="text"
 									placeholder="Upload Car Image"
 									id="carImage_Imagepath"
