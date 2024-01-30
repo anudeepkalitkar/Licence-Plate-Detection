@@ -1,0 +1,20 @@
+.project-name {
+	padding-top: 15%;
+}
+.project-title {
+	padding-top: 2%;
+}
+
+.PD-header {
+	height: 80vh;
+}
+.project-img {
+	border: 2px solid whitesmoke;
+}
+
+.project-desc {
+	color: rgb(255, 255, 255);
+}
+.NoSkillImage{
+	padding-top: 50%;
+}
