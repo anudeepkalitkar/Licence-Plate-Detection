@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Licence-Plate-Detection/static/css/main.69bf89f9.css",
+    "main.js": "/Licence-Plate-Detection/static/js/main.66df7a2b.js",
+    "static/js/787.4d38b80c.chunk.js": "/Licence-Plate-Detection/static/js/787.4d38b80c.chunk.js",
+    "index.html": "/Licence-Plate-Detection/index.html",
+    "main.69bf89f9.css.map": "/Licence-Plate-Detection/static/css/main.69bf89f9.css.map",
+    "main.66df7a2b.js.map": "/Licence-Plate-Detection/static/js/main.66df7a2b.js.map",
+    "787.4d38b80c.chunk.js.map": "/Licence-Plate-Detection/static/js/787.4d38b80c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69bf89f9.css",
+    "static/js/main.66df7a2b.js"
+  ]
+}
