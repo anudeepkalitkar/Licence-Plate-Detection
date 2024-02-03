@@ -11,3 +11,6 @@
     background-color: #92c8ff;
     padding-bottom: 5%;
 }
+.application{
+	min-height: 65vh ;
+}

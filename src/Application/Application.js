@@ -118,7 +118,7 @@ const Application = (props) => {
 								<img
 									className="responsive-img"
 									src={showUploadedImage}
-									alt="Uploaded Image"
+									alt="Uploaded"
 								/>
 							</div>
 						)}
