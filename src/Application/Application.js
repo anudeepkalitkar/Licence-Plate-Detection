@@ -65,7 +65,7 @@ const Application = (props) => {
 		SetStaticImageNo(0);
 	};
 	const handleSelectImage = (e) => {
-		SetStaticImageNo({ name: e.target.id });
+		SetStaticImageNo(e.target.id );
 
 		SetShowUploadedImage(e.target.src);
 	};
