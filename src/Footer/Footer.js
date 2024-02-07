@@ -64,7 +64,7 @@ const Footer = (props) => {
 								</li>
 							</ul>
 							<a className="btn-large grey" href={PortFolioURL}>
-								<b>Click to here for Portfolio</b>
+								<b>Click here for Portfolio</b>
 							</a>
 						</div>
 						<div className="col s3">
